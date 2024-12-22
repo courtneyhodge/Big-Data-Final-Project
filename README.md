@@ -1,4 +1,4 @@
-# Deep Learning Techniques for Multi-Dataset Classification
+# Deep Learning for Multi-Dataset Classification
 
 This repository contains the materials and outputs for a two-part Big Data final project completed by a team of two: Courtney H. and Tara Williams. The project explores advanced machine learning techniques using various datasets and models, emphasizing collaborative problem-solving and data analysis.
 
